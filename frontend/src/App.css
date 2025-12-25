@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #141414; /* Official Netflix Dark Background */
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #141414; 
+}
+::-webkit-scrollbar-thumb {
+  background: #333; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e50914; 
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', cursive; /* Netflix-style Headers */
+  letter-spacing: 1.5px;
+}
