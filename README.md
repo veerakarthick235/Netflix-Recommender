@@ -2,7 +2,6 @@
 
 A full-stack video recommendation system that mimics the Netflix experience. It uses a **Hybrid AI Engine** combining **Collaborative Filtering** (SVD) and **Content-Based Filtering** (TF-IDF) to deliver personalized movie suggestions in real-time.
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Netflix+Hybrid+Engine+Banner)
 
 ## 🚀 Key Features
 
@@ -142,7 +141,7 @@ npm start
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+***
 
 ---
 
@@ -157,3 +156,4 @@ npm start
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
